@@ -10,7 +10,8 @@
 
 ## 📸 Dashboard Preview
 
-![EV Dashboard](assets/dashboard_overview.png)
+![EV Dashboard](EV_Dashboard_Page1_Overview.png)
+![EV Dashboard](EV_Dashboard_Page2_Overview.png)
 
 ---
 
@@ -191,9 +192,6 @@ ev-adoption-india-powerbi/
 
 **Hariom Dixit**
 📍 Mumbai, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-dixit-2b522a27a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
 
 ---
 
