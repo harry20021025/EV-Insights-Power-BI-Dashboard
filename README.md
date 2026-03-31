@@ -157,36 +157,6 @@ The road ahead is electric — and the data shows India is already on it.
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone or download this repository
-2. Open `EV_Dashboard.pbix` in Power BI Desktop
-3. Explore the interactive dashboard
-4. Use filters (State, Year, Category) for deeper insights
-
----
-
-## 📁 Repository Structure
-```
-ev-adoption-india-powerbi/
-├── EV_Dashboard.pbix
-├── README.md
-├── dataset/
-│   ├── ev_sales.csv
-│   └── charging_stations.csv
-├── dax/
-│   └── measures.dax
-└── assets/
-    └── dashboard_overview.png
-```
-
----
-
-## 📺 Project Demo
-
-👉 [Watch on YouTube](#) *(add your link)*
-
----
 
 ## 👨‍💻 Author
 
